@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link
+			href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,800italic,400,700,800"
+			rel="stylesheet"
+			type="text/css" />
+		<link
+			href="http://fonts.googleapis.com/css?family=Raleway:400,700,300,200,100,900"
+			rel="stylesheet"
+			type="text/css" />
+		<link rel="stylesheet" href="style.css" />
+		<title>Team Gallery</title>
+	</head>
+	<body>
+		<div class="box">
+			<div id="buttons">
+				<label class="lns-checkbox">
+					<input
+						id="all"
+						type="checkbox"
+						value="All"
+						checked
+						onclick="checkBoxes()" />
+					<span>All</span>
+				</label>
+			</div>
+		</div>
+		<script src="script.js"></script>
+		<div class="flex-container" id="members">
+			<ul id="hexGrid"></ul>
+		</div>
+	</body>
+</html>

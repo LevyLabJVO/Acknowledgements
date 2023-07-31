@@ -1,0 +1,182 @@
+[
+    {
+        "name": "David Pekker",
+        "group": "University of Pittsburgh",
+        "photo": "memberPhotos/DavidPekker.png"
+    },
+    {
+        "name": "BinBin Tian",
+        "group": "University of Pittsburgh",
+        "photo": "memberPhotos/BinBinTian.png"
+    },
+    {
+        "name": "Roger Mong",
+        "group": "University of Pittsburgh",
+        "photo": "memberPhotos/RogerMong.png"
+    },
+    {
+        "name": "Yuchi He",
+        "group": "University of Pittsburgh",
+        "photo": "memberPhotos/YuchiHe.png"
+    },
+    {
+        "name": "Chang-Beom Eom",
+        "group": "University of Wisconsin-Madison",
+        "photo": "memberPhotos/Chang-BeomEom.png"
+    },
+    {
+        "name": "Hyungwoo Lee",
+        "group": "University of Wisconsin-Madison",
+        "photo": "memberPhotos/HyungwooLee.png"
+    },
+    {
+        "name": "Sangwoo Ryu",
+        "group": "University of Wisconsin-Madison",
+        "photo": "memberPhotos/SangwooRyu.png"
+    },
+    {
+        "name": "Elliot Mansfield",
+        "group": "University of Strathclyde",
+        "photo": "memberPhotos/ElliotMansfield.png"
+    },
+    {
+        "name": "François Damanet",
+        "group": "University of Strathclyde",
+        "photo": "memberPhotos/FrançoisDamanet.png"
+    },
+    {
+        "name": "Alexander Tacia",
+        "group": "University of Strathclyde",
+        "photo": "memberPhotos/AlexanderTacia.png"
+    },
+    {
+        "name": "Andrew Daley",
+        "group": "University of Strathclyde",
+        "photo": "memberPhotos/AndrewDaley.png"
+    },
+    {
+        "name": "C. Stephen Hellberg",
+        "group": "NRL",
+        "photo": "memberPhotos/C.StephenHellberg.png"
+    },
+    {
+        "name": "Megan Briggeman",
+        "group": "Collaborators",
+        "photo": "memberPhotos/MeganBriggeman.png"
+    },
+    {
+        "name": "Lucy Chen",
+        "group": "Collaborators",
+        "photo": "memberPhotos/LucyChen.png"
+    },
+    {
+        "name": "Guanglei Cheng",
+        "group": "Collaborators",
+        "photo": "memberPhotos/GuangleiCheng.png"
+    },
+    {
+        "name": "Qing Guo",
+        "group": "Collaborators",
+        "photo": "memberPhotos/QingGuo.png"
+    },
+    {
+        "name": "Shan Hao",
+        "group": "Collaborators",
+        "photo": "memberPhotos/ShanHao.png"
+    },
+    {
+        "name": "Yang Hu",
+        "group": "Collaborators",
+        "photo": "memberPhotos/YangHu.png"
+    },
+    {
+        "name": "Patrick Irvin",
+        "group": "Collaborators",
+        "photo": "memberPhotos/PatrickIrvin.png"
+    },
+    {
+        "name": "Shicheng Lu",
+        "group": "Collaborators",
+        "photo": "memberPhotos/ShichengLu.png"
+    },
+    {
+        "name": "Feng Bi",
+        "group": "Collaborators",
+        "photo": "memberPhotos/FengBi.png"
+    },
+    {
+        "name": "Jianan (Arthur)",
+        "group": "Collaborators",
+        "photo": "memberPhotos/Jianan(Arthur).png"
+    },
+    {
+        "name": "Aditi Nethwewala",
+        "group": "Collaborators",
+        "photo": "memberPhotos/AditiNethwewala.png"
+    },
+    {
+        "name": "Yun-Yi Pai",
+        "group": "Collaborators",
+        "photo": "memberPhotos/Yun-YiPai.png"
+    },
+    {
+        "name": "Erin Sutton",
+        "group": "Collaborators",
+        "photo": "memberPhotos/ErinSutton.png"
+    },
+    {
+        "name": "Yuhe Tang",
+        "group": "Collaborators",
+        "photo": "memberPhotos/YuheTang.png"
+    },
+    {
+        "name": "Anthony Tylan-Tyler",
+        "group": "Collaborators",
+        "photo": "memberPhotos/AnthonyTylan-Tyler.png"
+    },
+    {
+        "name": "Giriraj Jnawali",
+        "group": "Collaborators",
+        "photo": "memberPhotos/GirirajJnawali.png"
+    },
+    {
+        "name": "Xinyi Wu",
+        "group": "Collaborators",
+        "photo": "memberPhotos/XinyiWu.png"
+    },
+    {
+        "name": "Dengyu Yang",
+        "group": "Collaborators",
+        "photo": "memberPhotos/DengyuYang.png"
+    },
+    {
+        "name": "Muqing Yu",
+        "group": "Collaborators",
+        "photo": "memberPhotos/MuqingYu.png"
+    },
+    {
+        "name": "Yike Zhang",
+        "group": "Collaborators",
+        "photo": "memberPhotos/YikeZhang.png"
+    },
+    {
+        "name": "Yanjun Ma",
+        "group": "Collaborators",
+        "photo": "memberPhotos/YanjunMa.png"
+    },
+    {
+        "name": "Mengchen Huang",
+        "group": "Collaborators",
+        "photo": "memberPhotos/MengchenHuang.png"
+    },
+    {
+        "name": "Cheng Chen",
+        "group": "Collaborators",
+        "photo": "memberPhotos/ChengChen.png"
+    },
+    {
+        "name": "Michelle Tomczyk",
+        "group": "Collaborators",
+        "photo": "memberPhotos/MichelleTomczyk.png"
+    }
+]
